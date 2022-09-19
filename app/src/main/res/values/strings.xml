@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sha">SHA</string>
+    <string name="input">INPUT</string>
+    <string name="output">OUTPUT</string>
+    <string name="sha_1">SHA-1</string>
+    <string name="sha_256">SHA-256</string>
+    <string name="sha_254">sha_254</string>
+    <string name="sha_384">sha-384</string>
+    <string name="sha_512">sha-512</string>
+</resources>
